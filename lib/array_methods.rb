@@ -14,7 +14,7 @@ new_array
 end
 
 def using_first(array)
-new_array=array.reverse
+new_array=array.first
 new_array
 end
 
