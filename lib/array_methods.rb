@@ -5,7 +5,8 @@ array.include?(element)
 end
 
 def using_sort(array)
-array.sort
+new_array=array.sort
+new_array
 end
 
 def using_reverse(array)
